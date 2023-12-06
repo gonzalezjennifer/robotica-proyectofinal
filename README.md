@@ -6,3 +6,7 @@
 * Localizar y detectar la orientación y posición absolutas del robot
 * Controlador para generar movimientos pequeños
 * Planificar movimientos con RRT para llevar robot de pose inicial a pose final
+
+## Archivo 'proyecto.py'
+
+![Planeacion de movimientos](./img/1.JPG)
