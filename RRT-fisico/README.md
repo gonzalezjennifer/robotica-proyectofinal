@@ -1,5 +1,7 @@
 ## RRT AUTOMINY
-Para usar el algoritmo RRT con el autominy, se deben correr dos paquetes. <br>
+Esta version del programa, nos permite mandar el Autominy con su pose y orientacion inicial, a un punto final representado por un tag. <br>
+
+Para usar el algoritmo RRT con el autominy, se deben correr dos paquetes: <br>
 
 El primer paquete es ```my_camera``` para correrlo, ejecutar ```roslaunch my_camera alvar_usb.launch``` obteniendo la siguiente imagen para la deteccion de los tags: <br><br>
 ![Rviz de la camara](../img/2.png)
