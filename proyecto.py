@@ -97,10 +97,11 @@ for _ in range(400):
             y_best = datos_nodo.get('y')
             r_best = datos_nodo.get('r')
 
-    #Se rotan los movimientos en base a la pocicion actual del vehiculo
+    #Se rotan los movimientos en base a la posicion actual del vehiculo
     rotacion(r_best)
     
-    #Se revisa si alguno de los 6 movimientos te hacerca a el punto aleatorio
+
+    #Se revisa si alguno de los 6 movimientos te acerca a el punto aleatorio
     for mov_i in range(1, 7):
         err_prox = calcular_distancia(x_best+movs[mov_i][1], y_best+movs[mov_i][2], x_rnd, y_rnd)
         if(err_prox < best_error and -2.5 <= x_best+movs[mov_i][1] <= 2.5 and -2.5 <= y_best+movs[mov_i][2] <= 2.5):
