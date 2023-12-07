@@ -41,4 +41,4 @@ Se recorre el grafo en sentido contrario empezando con el nodo mas cercano a la 
 Correr con ```python proyecto.py``` obteniendo un resultado como el siguiente. <br><br>
 ![Planeacion de movimientos](./img/1.JPG)
 
-> **Note:** Este codigo actualmente no funciona con el autominy.
+> **Nota:** Este codigo actualmente no funciona con el autominy.
