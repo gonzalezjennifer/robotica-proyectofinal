@@ -5,4 +5,8 @@
 **Objetivos:**
 * Localizar y detectar la orientación y posición absolutas del robot
 * Controlador para generar movimientos pequeños
-* Planificar movimientos con RRT para llevar robot de pose inicial a pose final
+* Planificar movimientos con RRT para llevar robot de pose inicial a pose final <br>
+
+**Versiones:**
+*[RRT ideal (no fisico)](./RRT/)
+*[RRT Autominy](./RRT-fisico/)

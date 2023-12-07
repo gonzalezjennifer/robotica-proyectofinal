@@ -1,4 +1,4 @@
-## Archivo 'proyecto.py'
+## RRT IDEAL
 Se crea un grafo y como nodo raíz se coloca la posición inicial del vehiculó como argumentos este nodo tiene el grafo, un id que debe ser único como es el nodo raíz debe de ser 0, el nodo padre que en este caso no tiene, la posición en x, y y su rotación y por ultimo el tipo de movimiento del 0 al 6 antes definidos en la matriz de movimientos. Como meta solo se requiere un arreglo con posición x, y, además de la orientación final deseada. <br><br>
 ![Creacion del nodo raiz](./img/2.JPG)
 
