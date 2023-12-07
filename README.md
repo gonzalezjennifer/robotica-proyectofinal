@@ -7,6 +7,6 @@
 * Controlador para generar movimientos pequeños
 * Planificar movimientos con RRT para llevar robot de pose inicial a pose final <br>
 
-**Versiones:**
-*[RRT ideal (no fisico)](./RRT/)
-*[RRT Autominy](./RRT-fisico/)
+**Versiones:** <br>
+* [RRT ideal (no fisico)](./RRT/) <br>
+* [RRT Autominy](./RRT-fisico/)
