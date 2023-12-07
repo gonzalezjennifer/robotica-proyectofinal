@@ -38,4 +38,5 @@ Una vez terminada la exploración del algoritmo se recorre todo el grafo, pero e
 Se recorre el grafo en sentido contrario empezando con el nodo mas cercano a la meta y terminando en el nodo raíz esto gracias a que cada nodo tiene un padre excepto el nodo raíz que sería nuestra posición y orientación inicial. A la vez que se realiza esto se guarda la serie de movimientos que se debe seguir para llegar del nodo raíz (inicio) al nodo más cercano a la meta. <br>
 ![Guardado de moviemientos a seguir](./img/11.JPG)
 
+Correr con ```python proyecto.py``` obteniendo un resultado como el siguiente.
 ![Planeacion de movimientos](./img/1.JPG)
